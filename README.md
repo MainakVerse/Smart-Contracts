@@ -1,2 +1,2 @@
 # Smart-Contracts
-A collection of top 100 revolutionary smart contracts written in Solidity
+A collection of top 50 revolutionary smart contracts written in Solidity
